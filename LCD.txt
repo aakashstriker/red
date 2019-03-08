@@ -8,7 +8,7 @@ void delay(unsigned int z)
 {
 
 while(z--);
-
+}
 }
 
 void command(unsigned char x)
